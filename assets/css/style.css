@@ -1015,7 +1015,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
   .site-footer [class^=col-]
   {
     margin-bottom:30px
-  }
+  }  
 }
 @media (max-width:767px)
 {
@@ -1023,7 +1023,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
   {
     padding-bottom:0
   }
-  .site-footer .copyright-text,.site-footer .social-icons
+  .site-footer .copyright-text,.copy-txt,.site-footer .social-icons
   {
     text-align:center
   }
