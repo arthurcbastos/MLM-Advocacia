@@ -1003,6 +1003,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 .copy-txt {
     color: rgb(215, 182, 121);
+    margin: 0;
 }
 
 .copyright-text
