@@ -21,7 +21,7 @@ html {
         font-size: 97%;
     }
 
-    .whats {
+    .whats1 {
         position: fixed;
         bottom: 30px;
         right: 30px;
@@ -34,7 +34,7 @@ html {
         font-size: 94%;
     }
 
-    .whats {
+    .whats1 {
         position: fixed;
         bottom: 30px;
         right: 30px;
@@ -1119,7 +1119,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     text-align: center;
 }
 
-.whats {
+.whats1 {
     position: fixed;
     bottom: 30px;
     right: 30px;
