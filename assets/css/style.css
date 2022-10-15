@@ -27,6 +27,10 @@ html {
         right: 20px;
         z-index: 99999;
     }
+
+    .atua-info {
+        margin-top: -75px;
+    }
 }
 
 @media(min-width: 992px) and (max-width: 1199px) {
@@ -39,6 +43,10 @@ html {
         bottom: 30px;
         right: 20px;
         z-index: 99999;
+    }
+
+    .atua-info {
+        margin-top: -75px;
     }
 }
 
@@ -210,11 +218,11 @@ header.style-5 .main-nav ul li a {
 }
 
 header.style-5 .main-nav ul li a:hover {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
 }
 
 header.style-5 .main-nav ul li a.active {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
 }
 
 header.style-5 .main-nav ul li i {
@@ -284,12 +292,12 @@ header.style-5 .main-nav ul li ul.sub-menu>li a {
 }
 
 header.style-5 .main-nav ul li ul.sub-menu>li a:hover {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     margin-left: 10px
 }
 
 header.style-5 .main-nav ul li ul.sub-menu>li a.active {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
 }
 
 header.style-5 .main-nav ul li ul.sub-menu>li .sub-menu {
@@ -563,7 +571,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 .banner-section3 .bann31-single .content>span {
     font-size: 1.375rem;
     font-weight: 400;
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     display: inline-block;
     position: relative;
     margin-bottom: 10px
@@ -589,7 +597,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 .banner-section3 .bann31-single .content h2 span {
     font-size: 4.7rem;
     font-weight: 600;
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
 }
 
 @media(min-width:1200px) and (max-width:1399px) {
@@ -679,10 +687,10 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     display: inline-block;
     text-align: center;
     position: relative;
-    border: 1px solid rgb(215, 182, 121);
+    border: 1px solid #d7ce24;
     font-size: 36px;
     color: #fff;
-    background: rgb(215, 182, 121);
+    background: #d7ce24;
 }
 
 .banner-section3 .bann31-single .video-play .video-icon::before {
@@ -754,7 +762,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     line-height: 32px;
     width: 150px;
     height: 40px;    
-    background-color: rgb(215, 182, 121);
+    background-color: #d7ce24;
     color: #fff;
     text-align: center;
 }
@@ -768,7 +776,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 
 .t-1 {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     text-align: center;
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
@@ -807,7 +815,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     left: 0;
     width: 100%;
     height: 40px;
-    background: rgb(215, 182, 121);
+    background: #d7ce24;
     clip-path: polygon(0% 24%, 0 100%, 100% 100%);
     transition: all .5s ease;
     z-index: 1
@@ -837,7 +845,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 
 .practice-single3 .practice-content h4 {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     font-size: 1.563rem;
     font-weight: 700;    
     margin-bottom: 15px
@@ -852,7 +860,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 .practice-single3 .practice-content .details-btn {
     font-size: 16px;
     font-weight: 600;
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     font-family: 'Poppins', sans-serif;
     position: relative;
     z-index: 1;
@@ -868,7 +876,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     width: 40px;
     height: 3px;
     border-radius: 4px;
-    background: rgb(215, 182, 121);
+    background: #d7ce24;
     transition: all .4s ease
 }
 
@@ -931,7 +939,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 .practice-single3.sibling2 .practice-content .details-btn {
     font-size: 16px;
     font-weight: 600;
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
     font-family: 'Poppins', sans-serif;
     position: relative;
     z-index: 1;
@@ -964,7 +972,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 .site-footer h6
 {
-  color:rgb(215, 182, 121);
+  color:#d7ce24;
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
@@ -976,7 +984,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 .site-footer a:hover
 {
-  color:rgb(215, 182, 121);
+  color:#d7ce24;
   text-decoration:none;
 }
 .footer-links
@@ -994,7 +1002,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
-  color: rgb(215, 182, 121);
+  color: #d7ce24;
   text-decoration:none;
 }
 .footer-links.inline li
@@ -1016,7 +1024,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
   background-color: #fff;
 }
 .copy-txt {
-    color: rgb(215, 182, 121);
+    color: #d7ce24;
 }
 
 .copyright-text
@@ -1125,3 +1133,27 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
     right: 30px;
     z-index: 99999;
 }
+
+.bx-foto img{
+    display: flex;
+    width: 90%;
+    height: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.atua-title {
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.atua-info {
+    display: flex;
+    color: #1e2839;
+    text-align: justify;
+    font-size: 18px;
+
+}
+

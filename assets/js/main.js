@@ -232,3 +232,6 @@
             .animate({ "stroke-dashoffset": 198 * progress4 }, 2000);
     }, 1600);
 })(jQuery);
+
+
+
